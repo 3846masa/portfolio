@@ -20,9 +20,9 @@ https://nicocast.mikumiku.moe/
 
 ネットメディアにも取り上げていただきました。
 
-<iframe data-aspect="none" height="150" src="http://hatenablog.com/embed?url=http://getnews.jp/archives/596236"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=http://getnews.jp/archives/596236"></iframe>
 
-<iframe data-aspect="none" height="150" src="http://hatenablog.com/embed?url=https://weekly.ascii.jp/elem/000/000/229/229749/"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=https://weekly.ascii.jp/elem/000/000/229/229749/"></iframe>
 
 ## リンク
 

@@ -24,7 +24,7 @@ WebRTC と "Add to Home screen" を使ったアプリになっています。
 
 詳しい技術については下のサイトに掲載しています。
 
-<iframe data-aspect="none" height="184" src="http://hatenablog.com/embed?url=http://3846masa.hatenablog.jp/entry/2016/09/26/120000"></iframe>
+<iframe data-aspect="none" height="184" src="https://hatenablog.com/embed?url=http://3846masa.hatenablog.jp/entry/2016/09/26/120000"></iframe>
 
 ## リンク
 
