@@ -41,7 +41,7 @@ class OptimizedImage extends React.PureComponent<Props, State> {
 
   componentDidMount() {
     if (!this.imgRef.current!.complete) {
-      this.setState({ isLoaded: false });
+      this.setState({ isLoaded: true });
     }
   }
 
@@ -103,7 +103,7 @@ const Wrapper = styled<WrapperProps, 'div'>('div')`
   &:before {
     content: '';
     display: block;
-    ${({ width, height }) => (width && height ? `padding-top: ${height / width * 100}%` : '')};
+    ${({ width, height }) => (width && height ? `padding-top: ${(height / width) * 100}%` : '')};
   }
 `;
 
