@@ -15,9 +15,9 @@ https://japont.mikumiku.moe
 
 ウェブサイト内の文字を**動的に解析**して、**必要な文字だけを抽出する**技術「**ダイナミックサブセッティング**」を実現できる OSS です。
 
-<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=https://github.com/Japont/Japont-core"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog-parts.com/embed?url=https://github.com/Japont/Japont-core"></iframe>
 
-<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=https://www.moongift.jp/2015/04/japont-%E6%97%A5%E6%9C%AC%E8%AA%9Eweb-font%E3%82%92%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AB%E7%94%9F%E6%88%90/"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog-parts.com/embed?url=https://www.moongift.jp/2015/04/japont-%E6%97%A5%E6%9C%AC%E8%AA%9Eweb-font%E3%82%92%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AB%E7%94%9F%E6%88%90/"></iframe>
 
 ## 概要
 

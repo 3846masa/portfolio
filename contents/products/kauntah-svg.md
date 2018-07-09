@@ -20,9 +20,9 @@ https://kauntah-svg.mikumiku.moe
 
 SVG によって画像を並べるため、サーバ側での画像結合が不要になり、サーバ負荷を低コストで運用できます。
 
-<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=https://github.com/3846masa/kauntah-svg"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog-parts.com/embed?url=https://github.com/3846masa/kauntah-svg"></iframe>
 
-<iframe data-aspect="none" height="150" src="https://hatenablog.com/embed?url=https://www.moongift.jp/2018/03/kauntah-svg-%E8%90%8C%E3%81%88%E7%B3%BB%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC/"></iframe>
+<iframe data-aspect="none" height="150" src="https://hatenablog-parts.com/embed?url=https://www.moongift.jp/2018/03/kauntah-svg-%E8%90%8C%E3%81%88%E7%B3%BB%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC/"></iframe>
 
 ## 技術
 
