@@ -22,6 +22,7 @@ css`
   }
 
   * {
+    -webkit-overflow-scrolling: touch;
     box-sizing: border-box;
   }
 `;
