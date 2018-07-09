@@ -73,7 +73,6 @@ export default {
           oneOf: [
             {
               test: /\.(js|jsx|ts|tsx)$/,
-              exclude: defaultLoaders.jsLoader.exclude,
               use: [
                 {
                   loader: 'babel-loader',

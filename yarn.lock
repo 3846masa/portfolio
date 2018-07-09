@@ -6256,9 +6256,9 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
-react-static@^5.9.1:
-  version "5.9.1"
-  resolved "https://registry.yarnpkg.com/react-static/-/react-static-5.9.1.tgz#3d7c607237f9fb7a37180fee2b4cc0f7a6c7572d"
+react-static@^5.9.7:
+  version "5.9.7"
+  resolved "https://registry.yarnpkg.com/react-static/-/react-static-5.9.7.tgz#86a420c4ef267bedb1603db5d7b1d6ebe5ffdaab"
   dependencies:
     "@types/react" "^16.0.18"
     "@types/react-helmet" "^5.0.3"
@@ -6296,7 +6296,6 @@ react-static@^5.9.1:
     html-webpack-plugin "^2.30.1"
     inquirer "^3.3.0"
     inquirer-autocomplete-prompt "^0.11.1"
-    jsesc "^2.5.1"
     match-sorter "^2.0.2"
     openport "^0.0.4"
     postcss-flexbugs-fixes "^3.2.0"
