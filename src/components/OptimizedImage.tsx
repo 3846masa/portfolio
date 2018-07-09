@@ -40,8 +40,13 @@ class OptimizedImage extends React.PureComponent<Props, State> {
   }
 
   componentDidMount() {
-    if (!this.imgRef.current!.complete) {
-      this.setState({ isLoaded: true });
+    const img = this.imgRef.current!;
+    if (!img.complete) {
+      this.setState({
+        isLoaded: true,
+        naturalWidth: img.naturalWidth,
+        naturalHeight: img.naturalHeight,
+      });
     }
   }
 
