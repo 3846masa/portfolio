@@ -16,10 +16,10 @@ export default CardList;
 
 const Base = styled.div`
   display: grid;
+  grid-auto-rows: max-content;
   grid-template-columns: repeat(auto-fill, 300px);
   justify-content: center;
   grid-gap: 1rem;
   width: 100%;
-  height: 100%;
   flex-wrap: wrap;
 `;
