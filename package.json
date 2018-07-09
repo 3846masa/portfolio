@@ -1,0 +1,56 @@
+{
+  "name": "@3846masa/portfolio",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "react-static start",
+    "staging": "react-static build --staging",
+    "build": "react-static build"
+  },
+  "dependencies": {
+    "fdate": "^0.0.4",
+    "prism-themes": "^1.0.1",
+    "prismjs": "^1.14.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-transition-group": "^2.3.1",
+    "recompose": "^0.27.0",
+    "rehype-parse": "^4.1.0",
+    "rehype-react": "^3.0.2",
+    "styled-components": "^3.2.6",
+    "unified": "^6.2.0",
+    "unist-util-find": "^1.0.1",
+    "unist-util-map": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.11",
+    "@types/prismjs": "^1.9.0",
+    "@types/prop-types": "^15.5.2",
+    "@types/react": "^16.3.13",
+    "@types/react-dom": "^16.0.5",
+    "@types/react-hot-loader": "^4.1.0",
+    "@types/react-transition-group": "^2.0.9",
+    "@types/recompose": "^0.26.1",
+    "@types/webpack-env": "^1.13.6",
+    "babel-plugin-styled-components": "^1.5.1",
+    "esm": "^3.0.28",
+    "fs-extra": "^6.0.0",
+    "globby": "^8.0.1",
+    "js-yaml": "^3.11.0",
+    "react-static": "^5.9.1",
+    "rehype-raw": "^2.0.0",
+    "remark-frontmatter": "^1.2.0",
+    "remark-inline-links": "^3.1.0",
+    "remark-parse": "^5.0.0",
+    "remark-rehype": "^3.0.0",
+    "sane": "^2.5.0",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.8.3",
+    "unist-util-remove-position": "^1.1.2"
+  },
+  "esm": {
+    "cjs": true
+  }
+}
