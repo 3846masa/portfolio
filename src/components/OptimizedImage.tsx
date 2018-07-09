@@ -23,7 +23,7 @@ class OptimizedImage extends React.PureComponent<Props, State> {
       imgUrl: {
         raw: props.src || '',
       },
-      isLoaded: true,
+      isLoaded: false,
     };
     if (/lh3\.googleusercontent\.com/.test(state.imgUrl.raw)) {
       const parsed = state.imgUrl.raw.split('/').slice(0, 7);
