@@ -49,6 +49,11 @@ export default {
           <Head>
             <meta charSet="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" />
+            <link
+              rel="stylesheet"
+              href="https://fonts.googleapis.com/css?family=Lato:400,900|Noto+Sans+JP:400,700|Source+Code+Pro:500,700&amp;subset=japanese,latin-ext"
+            />
             {renderMeta.styleTags}
           </Head>
           <Body>{children}</Body>
