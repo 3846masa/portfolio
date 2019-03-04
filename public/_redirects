@@ -1,0 +1,4 @@
+http://3846masa.netlify.com/* http://3846masa.dev/:splat 301!
+https://3846masa.netlify.com/* https://3846masa.dev/:splat 301!
+http://www.3846masa.dev/* http://3846masa.dev/:splat 301!
+https://www.3846masa.dev/* https://3846masa.dev/:splat 301!
